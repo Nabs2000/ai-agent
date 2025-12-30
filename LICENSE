@@ -1,0 +1,49 @@
+MIT License
+
+Copyright (c) 2024 MediSync AI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+IMPORTANT DISCLAIMERS:
+
+1. NOT FOR CLINICAL USE
+   This software is for demonstration and educational purposes only. It is NOT
+   approved for actual patient care or clinical decision-making.
+
+2. NO MEDICAL ADVICE
+   This software does not provide medical advice. Always consult with qualified
+   healthcare professionals for medical decisions.
+
+3. NO WARRANTY
+   The medical information and algorithms in this software are simulated and
+   should not be relied upon for actual clinical practice.
+
+4. HIPAA COMPLIANCE
+   This demo version is NOT HIPAA compliant. Production use would require
+   significant security enhancements and compliance certification.
+
+5. SUPERVISION REQUIRED
+   Any use of AI-generated clinical documentation must be reviewed and validated
+   by licensed healthcare professionals.
+
+6. LIABILITY
+   The authors and copyright holders accept no liability for any medical
+   decisions made based on this software's output.
